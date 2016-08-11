@@ -15,6 +15,5 @@ pip install request
 
 ##USAGE
 
-[ ]Download this repo: `git clone https://github.com/barneyElDinosaurio/serviceman.git`
-
-[ ]Lets fire in python: `python serviceman.py`
+- [x]Download this repo: `git clone https://github.com/barneyElDinosaurio/serviceman.git`
+- [ ]Lets fire in python: `python serviceman.py`
