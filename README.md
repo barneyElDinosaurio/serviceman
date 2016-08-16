@@ -20,3 +20,7 @@ pip install request
 
 - [ ] Download this repo: `git clone https://github.com/barneyElDinosaurio/serviceman.git`
 - [ ] Lets fire in python: `python serviceman.py`
+
+
+/////NO PRUEBO EL SERVICIO #2
+///LAS PREGUNTAS LAS RESPONDO TODAS O SOLO UNA?
